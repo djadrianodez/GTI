@@ -1,15 +1,15 @@
 # Benvindo ao repositório GITI
 
-Gerenciamento de Infraestrutura de TI -2015.2, (Prof Alexandre)
-Faculdade Nova Roma 
-O Repositório foi criado para o auxilio e envio das atividades desenvolvidas na referida cadeira.
+# Gerenciamento de Infraestrutura de TI -2015.2, (Prof Alexandre)
+# Faculdade Nova Roma 
+# O Repositório foi criado para o auxilio e envio das atividades desenvolvidas na referida cadeira.
 
-1 -> Clone o repositório; git clone 
-      https://github.com/djadrianodez/GTI.git 
-      ou git clone 
-      git@github.com:djadrianodez/GTI.git 
-      -> se tiver um par de chaves SSH
-
+# 1 -> Clone o repositório; git clone 
+#      https://github.com/djadrianodez/GTI.git 
+#      ou git clone 
+#      git@github.com:djadrianodez/GTI.git 
+#      -> se tiver um par de chaves SSH
+#
 
 Ciclo de desenvolvimento com o Git:
 
